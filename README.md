@@ -3,3 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-isaqueigorsilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaqueigorsilva@gmail.com)](mailto:isaqueigorsilva@gmail.com)
 ## Hi 👋, 
 I'm Isaque Igor, I'm a Full Stack developer 👨‍💻
+
+- 🔭 I’m currently working with **React and ASP NET Core!**
+- 🌱 I’m currently learning **Redux, AWS, and GraphQL**
+- 💬 Ask me about **developer, travel and learn languages**
+- ⚡ Fun fact: **I'm Pomeranian**
+
