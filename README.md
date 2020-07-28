@@ -30,3 +30,26 @@ I'm Isaque Igor, I'm a Full Stack developer 👨‍💻
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-336791?style=flat-square&logo=mongodb)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
+#### Human languages 
+<p>
+	<img alt="Portuguese" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="32">
+	<img alt="100%" src="https://progress-bar.dev/100"> 
+    - Native language, and improving my public speaking skills at toastmasters<br>
+  	<img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="32">
+	<img alt="90%" src="https://progress-bar.dev/90">
+    - I speak English on a daily basis and I'm Always learning something new<br>
+  	<img alt="German" src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="32">
+	<img alt="50%" src="https://progress-bar.dev/50"> 
+    - Light conversation B1 level - In Progress<br>
+  <img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32">
+	<img alt="40%" src="https://progress-bar.dev/40"> 
+    - I can have a fun casual conversation <br>
+  <img alt="French" src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="32">
+	<img alt="40%" src="https://progress-bar.dev/40"> 
+    - Light conversation B1 level <br>
+  <img alt="Slovak" src="https://hatscripts.github.io/circle-flags/flags/sk.svg" width="32">
+	<img alt="8%" src="https://progress-bar.dev/8"> 
+    - Well, A basic conversation and ask for directions <br>
+</p> 
+
