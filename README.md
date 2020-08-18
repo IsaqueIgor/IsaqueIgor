@@ -6,8 +6,8 @@
 I'm Isaque Igor, I'm a Full Stack developer 👨‍💻
 
 - 🔭 I’m currently working with **React and ASP NET Core!**
-- 🌱 I’m currently learning **Redux, AWS, and GraphQL**
-- 💬 Ask me about **development, travel and learn languages**
+- 🌱 I’m currently learning **AWS, and GraphQL**
+- 💬 Ask me about **self-development, travel and learn languages**
 - ⚡ Fun fact: **I'm Pomeranian**
 
 #### Frontend
