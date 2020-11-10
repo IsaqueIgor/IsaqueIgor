@@ -5,7 +5,7 @@
 
 I'm Isaque Igor, I'm a Full Stack developer 👨‍💻
 
-- 🔭 I’m currently working with **React and ASP NET Core!**
+- 🔭 I’m currently working with **React and React Native!**
 - 🌱 I’m currently learning **Clean Architecture**
 - 💬 Ask me about **self-development, travel and learn languages**
 - ⚡ Fun fact: **I'm Pomeranian**
