@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-isaqueigorsilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaqueigorsilva@gmail.com)](mailto:isaqueigorsilva@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/isaqueigordev)](https://t.me/isaqueigordev)
 
-I'm Isaque Igor, I'm a Full Stack developer 👨‍💻
+I'm a Full Stack developer 👨‍💻
 
 - 🔭 I’m currently working with **React and React Native!**
 - 🌱 I’m currently learning **Clean Architecture**
