@@ -38,9 +38,9 @@ I'm a Full Stack developer 👨‍💻
   	<img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="32">
 	<img alt="90%" src="https://progress-bar.dev/90">
     - I speak English on a daily basis and I'm Always learning something new<br>
-    -  <img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32">
-	<img alt="80%" src="https://progress-bar.dev/80"> 
-    - I lived in ecuador <br>
+         <img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32">
+	 <img alt="80%" src="https://progress-bar.dev/80"> 
+    - I lived in ecuador and Mexico  <br>
   	<img alt="German" src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="32">
 	<img alt="50%" src="https://progress-bar.dev/50"> 
     - Light conversation B1 level - In Progress<br>
