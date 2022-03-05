@@ -7,7 +7,7 @@ I'm a Full Stack developer 👨‍💻
 
 - 🔭 I’m currently working with **React,React Native and NodeJS!**
 - 🌱 I’m currently learning **AWS**
-- 💬 Ask me about **Self-development, travel and learn languages**
+- 💬 Ask me about **Self-development, travel, music and learn languages**
 - ⚡ Fun fact: **I'm Pomeranian**
 
 #### Frontend
