@@ -5,8 +5,7 @@
 
 I'm a Full Stack developer 👨‍💻
 
-- 🔭 I’m currently working with **React,React Native and NodeJS!**
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working with **React,React Native and NestJS!**
 - 💬 Ask me about **Self-development, travel, music and learn languages**
 - ⚡ Fun fact: **I'm Pomeranian**
 
@@ -38,15 +37,12 @@ I'm a Full Stack developer 👨‍💻
     - Native language, and improving my public speaking skills at toastmasters<br>
 	 <img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32">
 	 <img alt="100%" src="https://progress-bar.dev/100"> 
-    - I lived in ecuador and Mexico  <br>
+    - I live in Mexico  <br>
   	<img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="32">
 	<img alt="90%" src="https://progress-bar.dev/90">
     - I speak English on a daily basis and I'm Always learning something new<br>
   	<img alt="German" src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="32">
 	<img alt="50%" src="https://progress-bar.dev/50"> 
     - Light conversation B1 level - In Progress<br>
-  <img alt="Slovak" src="https://hatscripts.github.io/circle-flags/flags/sk.svg" width="32">
-	<img alt="8%" src="https://progress-bar.dev/8"> 
-    - Well, A basic conversation and ask for directions <br>
 </p> 
 
